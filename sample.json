@@ -1,0 +1,32 @@
+{
+   "status": "ok",
+   "totalResults": 2,
+   "articles": [
+      {
+         "source": {
+            "id": null,
+            "name": "Hindustan Times"
+         },
+         "author": "HT Sports Desk",
+         "title": "Former India cricketers blast Arshdeep Singh for repeated no-ball offences - Hindustan Times",
+         "description": "Arshdeep Singh bowled a no ball in the final over of the New Zealand innings, that was followed by three successive sixes and a four. | Cricket",
+         "url": "https://www.hindustantimes.com/cricket/former-india-cricketers-mohammad-kaif-sanjay-bangar-blast-arshdeep-singh-for-repeated-no-ball-offences-he-s-wasting-energy-there-101674876503128.html",
+         "urlToImage": "https://images.hindustantimes.com/img/2023/01/28/1600x900/ANI-20230126410-0_1674878519501_1674878519501_1674878550297_1674878550297.jpg",
+         "publishedAt": "2023-01-28T04:04:20Z",
+         "content": "Team India endured a 21-run loss in the first ODI of the three-match series against New Zealand on Friday. After New Zealand put a strong score of 176/6 in 20 overs, India endured a top-order collaps… [+2204 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "NDTV News"
+         },
+         "author": "NDTV Sports Desk",
+         "title": "\"Hope For All The Women...\": Shoaib Malik's Heartwarming Post After Sania Mirza's Australian Open He.. - NDTV Sports",
+         "description": "After Sania Mirza's final Grand Slam match, veteran Pakistan cricketer Shoaib Malik, who is also her husband, took to Twitter and shared a heartwarming post for the 36-year-old",
+         "url": "https://sports.ndtv.com/australian-open-2023/youre-an-inspiration-shoaib-maliks-heartwarming-post-for-wife-sania-mirza-3730266",
+         "urlToImage": "https://c.ndtvimg.com/2023-01/4mihei1_shoaib-malik-sania-mirza-806_625x300_27_January_23.jpg",
+         "publishedAt": "2023-01-27T16:51:02Z",
+         "content": "Indian tennis star Sania Mirza capped off her glorious Grand Slam career with a runners-up finish, alongside Rohan Bopanna in the Australian Open mixed doubles final on Friday. The he unseeded Indian… [+1810 chars]"
+      }
+   ]
+}
